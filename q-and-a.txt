@@ -1,27 +1,29 @@
 Please answer the following questions:
 
 1. What is your full name?
+Maxwell Pred Thoma
 
 
 
 2. What is the username for your GitHub account?
-
-
+thoma1347
 
 3. Where is your hometown?
-
+Winnetka, IL
 
 
 4. What is your favorite local restaurant?
-
+buffalo joes
 
 
 5. Name the last good book you read (title, author?).
 
+American Lion, John Meachem
 
 
 6. Which album/artist is in heavy rotation on your iPod/iPhone/MP3 player/stream?
 
-
+Chance the rapper
 
 7. If you were to build a web site for fun, what would it be about?
+sports
